@@ -13,17 +13,24 @@
     <language>en</language>
     <atom:link href="https://blog.milannikolic.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automation</title>
-      <link>https://blog.milannikolic.dev/tags/automation/</link>
+      <title>Contributions</title>
+      <link>https://blog.milannikolic.dev/tags/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.milannikolic.dev/tags/automation/</guid>
+      <guid>https://blog.milannikolic.dev/tags/contributions/</guid>
       <description></description>
     </item>
     <item>
-      <title>Obsidian</title>
-      <link>https://blog.milannikolic.dev/tags/obsidian/</link>
+      <title>Nextjs</title>
+      <link>https://blog.milannikolic.dev/tags/nextjs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.milannikolic.dev/tags/obsidian/</guid>
+      <guid>https://blog.milannikolic.dev/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensource</title>
+      <link>https://blog.milannikolic.dev/tags/opensource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.milannikolic.dev/tags/opensource/</guid>
       <description></description>
     </item>
   </channel>

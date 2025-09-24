@@ -13,29 +13,14 @@
     <language>en</language>
     <atom:link href="https://blog.milannikolic.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://blog.milannikolic.dev/posts/my-second-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.milannikolic.dev/posts/my-second-blog/</guid>
-      <description>&lt;p&gt;This is my second blog
-&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.milannikolic.dev/images/Pasted%20image%2020250924135432.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://blog.milannikolic.dev/posts/my-third-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.milannikolic.dev/posts/my-third-blog/</guid>
-      <description>&lt;p&gt;this is my third blog
-&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.milannikolic.dev/images/Pasted%20image%2020250924141652.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Automated Obsidian Blog</title>
+      <title>My First Contribution on Next.js</title>
       <link>https://blog.milannikolic.dev/posts/my-automated-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.milannikolic.dev/posts/my-automated-blog/</guid>
-      <description>&lt;p&gt;I am creating my blog that automatically publishes it to my blog site that lives on
-&lt;a href=&#34;https://www.blog.milannikolic.dev&#34;&gt;www.blog.milannikolic.dev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.milannikolic.dev/images/Pasted%20image%2020250924133825.png&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Contributing to open source has always felt intimidating, especially when the project is as big as &lt;strong&gt;Next.js&lt;/strong&gt;. But recently, I made my very first pull request (PR) to the Next.js repository — and it actually got recognized by the maintainers. Here’s how it happened.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-it-started&#34;&gt;🐣 How It Started&lt;/h2&gt;
+&lt;p&gt;I wanted to contribute something small and beginner-friendly. Instead of diving straight into fixing bugs deep in the framework, I looked for documentation issues.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
