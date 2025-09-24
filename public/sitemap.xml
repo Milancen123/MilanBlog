@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/MilanBlog/posts/my-second-blog/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/posts/my-second-blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/posts/my-third-blog/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/posts/my-third-blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/tags/automation/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/tags/automation/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/categories/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/posts/my-automated-blog/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/posts/my-automated-blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/tags/obsidian/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/tags/obsidian/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/posts/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/MilanBlog/tags/</loc>
+    <loc>https://milancen123.github.io/MilanBlog/tags/</loc>
   </url>
 </urlset>
