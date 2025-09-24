@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://examplesite.com/sitemap.xml
+Sitemap: https://github.com/Milancen123/MilanBlog/sitemap.xml
