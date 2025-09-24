@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-second-blog/</loc>
+    <loc>https://blog.milannikolic.dev/posts/my-second-blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/my-third-blog/</loc>
+    <loc>https://blog.milannikolic.dev/posts/my-third-blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
+    <loc>https://blog.milannikolic.dev/tags/automation/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.milannikolic.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.milannikolic.dev/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/my-automated-blog/</loc>
+    <loc>https://blog.milannikolic.dev/posts/my-automated-blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/obsidian/</loc>
+    <loc>https://blog.milannikolic.dev/tags/obsidian/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.milannikolic.dev/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.milannikolic.dev/tags/</loc>
   </url>
 </urlset>
