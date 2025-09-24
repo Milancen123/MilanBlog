@@ -1,4 +1,4 @@
-baseURL: "https://blog.milannikolic.dev/MilanBlog/"
+baseURL: "https://blog.milannikolic.dev/"
 title: ExampleSite
 pagination.pagerSize: 5
 theme: PaperMod
