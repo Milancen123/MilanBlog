@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Opensource on ExampleSite</title>
-    <link>https://blog.milannikolic.dev/tags/opensource/</link>
-    <description>Recent content in Opensource on ExampleSite</description>
+    <title>Opensource on Milan&#39;s Blog</title>
+    <link>http://localhost:1313/tags/opensource/</link>
+    <description>Recent content in Opensource on Milan&#39;s Blog</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://blog.milannikolic.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.milannikolic.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Milan&#39;s Blog</title>
+      <url>http://localhost:1313/profile.png</url>
+      <link>http://localhost:1313/profile.png</link>
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
-    <atom:link href="https://blog.milannikolic.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Contribution on Next.js</title>
-      <link>https://blog.milannikolic.dev/posts/my-automated-blog/</link>
+      <link>http://localhost:1313/posts/my-automated-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.milannikolic.dev/posts/my-automated-blog/</guid>
+      <guid>http://localhost:1313/posts/my-automated-blog/</guid>
       <description>&lt;p&gt;Contributing to open source has always felt intimidating, especially when the project is as big as &lt;strong&gt;Next.js&lt;/strong&gt;. But recently, I made my very first pull request (PR) to the Next.js repository — and it actually got recognized by the maintainers. Here’s how it happened.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-how-it-started&#34;&gt;🐣 How It Started&lt;/h2&gt;

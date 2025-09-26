@@ -1,5 +1,5 @@
 baseURL: "https://blog.milannikolic.dev/"
-title: ExampleSite
+title: Milan's Blog
 pagination.pagerSize: 5
 theme: PaperMod
 
@@ -14,12 +14,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Milan's Blog
+  description: "This is my personal blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  author: "Milan Nikolic"
+  # author: ["Milan Nikolic"] # multiple authors
+  images: ["profile.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -28,7 +28,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -43,15 +43,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "profile.png"
+    favicon16x16: "profile.png"
+    favicon32x32: "profile.png"
+    apple_touch_icon: "profile.png"
+    safari_pinned_tab: "profile.png"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: profile.png
     iconHeight: 35
 
   # profile-mode
@@ -72,15 +72,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-
+    Content: This blog is a space for sharing insights, ideas, and useful information across different topics. The goal is to keep things clear, engaging, and practical—so that every visit leaves you with something new to think about.
+ 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/milan-nikolic-849443318"
+    - name: portfolio
+      url: "https://www.milannikolic.dev/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/Milancen123"
 
   analytics:
     google:
@@ -96,7 +96,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Milancen123/MilanBlog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -121,9 +121,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: portfolio
+      name: My Portfolio
+      url: https://milannikolic.dev
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
